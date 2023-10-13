@@ -1,0 +1,14 @@
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\bin\Debug\net7.0\People.exe
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\bin\Debug\net7.0\People.deps.json
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\bin\Debug\net7.0\People.runtimeconfig.json
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\bin\Debug\net7.0\People.dll
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\bin\Debug\net7.0\People.pdb
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.AssemblyInfoInputs.cache
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.AssemblyInfo.cs
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.csproj.CoreCompileInputs.cache
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.dll
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\refint\People.dll
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.pdb
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\People.genruntimeconfig.cache
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\People\obj\Debug\net7.0\ref\People.dll

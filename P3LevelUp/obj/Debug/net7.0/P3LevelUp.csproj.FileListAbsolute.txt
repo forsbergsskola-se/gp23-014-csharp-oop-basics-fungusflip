@@ -1,0 +1,14 @@
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.AssemblyInfoInputs.cache
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.AssemblyInfo.cs
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.csproj.CoreCompileInputs.cache
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\bin\Debug\net7.0\P3LevelUp.exe
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\bin\Debug\net7.0\P3LevelUp.deps.json
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\bin\Debug\net7.0\P3LevelUp.runtimeconfig.json
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\bin\Debug\net7.0\P3LevelUp.dll
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\bin\Debug\net7.0\P3LevelUp.pdb
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.dll
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\refint\P3LevelUp.dll
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.pdb
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\P3LevelUp.genruntimeconfig.cache
+C:\Users\renem\Documents\GitHub\gp23-014-csharp-oop-basics-fungusflip\P3LevelUp\obj\Debug\net7.0\ref\P3LevelUp.dll

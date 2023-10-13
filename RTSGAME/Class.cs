@@ -1,4 +1,5 @@
-﻿
+﻿namespace RTSGAME
+{
  class Player
     {
         // Fields to store player information
@@ -12,3 +13,4 @@
         public string DisplayName;
         public string EmailAddress;
     }
+}
